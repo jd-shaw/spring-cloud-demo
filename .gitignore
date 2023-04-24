@@ -1,2 +1,5 @@
 # Project exclude paths
 /demo-utils/target/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/vcs.xml
